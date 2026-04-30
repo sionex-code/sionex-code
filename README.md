@@ -7,7 +7,7 @@
 
 <br/>
 
-I architect and deploy **production-grade, highly concurrent automation systems** and **autonomous AI agents**. I specialize in solving complex business bottlenecks through intelligent automation—transforming boring, repetitive tasks into robust, time-saving infrastructure. From **Google Sheets automation** and deep API integrations to reverse engineering backend APIs and evading advanced bot-detection (Cloudflare, DataDome), I build systems that scale infinitely without human intervention.
+I architect and deploy **production-grade, highly concurrent automation systems** and **autonomous AI agents**. I specialize in solving complex business bottlenecks through intelligent automation, transforming boring, repetitive tasks into robust, time-saving infrastructure. From **Google Sheets automation** and deep API integrations to reverse engineering backend APIs and evading advanced bot-detection (Cloudflare, DataDome), I build systems that scale infinitely without human intervention.
 
 Leveraging bleeding-edge AI coding environments (Claude Code, multi-agent swarms), I build advanced infrastructure at 10x the speed of traditional development, delivering unparalleled efficiency, accuracy, and ROI.
 
@@ -42,9 +42,9 @@ Developed an end-to-end automation pipeline utilizing AI-generated scripts. Orch
 
 ## 💼 Experience & Credentials
 
-- **Senior Software Engineer** @ *Webmarkaz* (Apr 2024 – Present)
-- **Google Cloud Certified — Professional Machine Learning Engineer** (Valid through Mar 2028)
-- **Master of Computer Science (MSCS)** @ *University of Gujrat* (2013 – 2015)
+- **Senior Software Engineer** @ *Webmarkaz* (Apr 2024 - Present)
+- **Google Cloud Certified: Professional Machine Learning Engineer** (Valid through Mar 2028)
+- **Master of Computer Science (MSCS)** @ *University of Gujrat* (2013 - 2015)
 
 ## ⚡ The 2026 Edge
 
@@ -53,10 +53,4 @@ Most clients come to me when:
 → Their n8n / Make workflows look like a bowl of spaghetti and need to be refactored into a scalable, self-healing architecture.
 → They want true AI Agents (not just a chatbot wrapper) that autonomously reason, use tools, and execute multi-step workflows.
 
-If your current system is manual, fragile, or stuck together with duct-tape—I replace it with state-of-the-art architecture.
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sionex-code&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+If your current system is manual, fragile, or stuck together with duct-tape, I replace it with state-of-the-art architecture.
