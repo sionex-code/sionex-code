@@ -1,21 +1,22 @@
 <div align="center">
   <h1>Yaser R.</h1>
-  <p><b>Python Automation Engineer & AI Architect | Backend Reverse Engineering | Intelligent Web Scraping</b></p>
-  <p>📍 Gujrat, Pakistan | 💼 <a href="https://www.upwork.com/">Hire me on Upwork</a></p>
+  <p><b>Python Automation Engineer | AI Agent Developer | Web Scraping Specialist | Workflow Optimization Expert</b></p>
+  <p>📍 Gujrat, Pakistan <br/>
+  💼 <a href="https://www.upwork.com/freelancers/~010ec9f670cb28b091">Hire me on Upwork</a> | 🚀 <a href="https://www.fiverr.com/mxproductions">Hire me on Fiverr</a></p>
 </div>
 
 <br/>
 
-I architect and deploy **production-grade, highly concurrent automation systems** and **autonomous AI agents**. Specializing in reverse engineering complex backend APIs, evading advanced bot-detection heuristics (Cloudflare, DataDome), and building robust infrastructure that scales infinitely without human intervention. 
+I architect and deploy **production-grade, highly concurrent automation systems** and **autonomous AI agents**. I specialize in solving complex business bottlenecks through intelligent automation—transforming boring, repetitive tasks into robust, time-saving infrastructure. From **Google Sheets automation** and deep API integrations to reverse engineering backend APIs and evading advanced bot-detection (Cloudflare, DataDome), I build systems that scale infinitely without human intervention.
 
-Leveraging bleeding-edge AI coding environments (Claude Code, multi-agent swarms), I build highly advanced infrastructure at 10x the speed of traditional development, delivering unparalleled efficiency and ROI.
+Leveraging bleeding-edge AI coding environments (Claude Code, multi-agent swarms), I build advanced infrastructure at 10x the speed of traditional development, delivering unparalleled efficiency, accuracy, and ROI.
 
-## 🚀 Technical Arsenal & Focus
+## 🚀 Technical Arsenal & Core Capabilities
 
-- **AI & Autonomous Agents:** LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI (GPT-4.5/o1), Anthropic, RAG Pipelines, Autonomous Reasoning.
+- **AI & Autonomous Agents:** LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI (GPT-4.5/o1), Anthropic, RAG Pipelines.
+- **Process & Workflow Optimization:** Google Sheets Automation, Repetitive Task Elimination, Time-Saving Scripting, n8n, Make (Integromat), Zapier.
 - **Reverse Engineering & Stealth Extraction:** Backend API Reverse Engineering, Cloudflare/DataDome bypass, Apify, Playwright, Scrapy, Advanced Stealth Fingerprinting.
 - **Backend Infrastructure:** FastAPI Microservices, PostgreSQL, Supabase, Celery, APScheduler, Docker, High-Concurrency ETL Pipelines.
-- **Workflow Automation:** n8n, Make (Integromat), Deep REST/GraphQL Integrations (Stripe, HubSpot, Discord, Telegram).
 
 ## 💻 Featured Engineering & Systems
 
@@ -57,5 +58,5 @@ If your current system is manual, fragile, or stuck together with duct-tape—I 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sionex-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sionex-code&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
