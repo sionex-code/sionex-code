@@ -2,7 +2,7 @@
   <h1>Yaser R.</h1>
   <p><b>Python Automation Engineer | AI Agent Developer | Web Scraping Specialist | Workflow Optimization Expert</b></p>
   <p>📍 Gujrat, Pakistan <br/>
-  💼 <a href="https://www.upwork.com/freelancers/~010ec9f670cb28b091">Hire me on Upwork</a> | 🚀 <a href="https://www.fiverr.com/mxproductions">Hire me on Fiverr</a></p>
+  💼 <a href="https://www.upwork.com/freelancers/~010ec9f670cb28b091">Hire me on Upwork</a>
 </div>
 
 <br/>
